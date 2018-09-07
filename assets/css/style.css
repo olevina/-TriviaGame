@@ -1,0 +1,24 @@
+body {
+    background-image: url(/Users/olgalevina/Desktop/Bootcamp/TriviaGame/assets/images/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Pangolin', cursives;
+}
+
+.main {
+    margin-top: 25%;
+    cursor: pointer;
+    margin-right: 11%;
+}
+
+.picture {
+    margin-top: 25%;
+    margin-right: 11%;
+}
+
+.imgs {
+    margin-left: 30%;  
+    padding-top: 10px;
+    width: 200px;
+    height: 300px;
+}
